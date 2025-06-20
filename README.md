@@ -1,6 +1,6 @@
-# xpkg-template | [xlings](https://github.com/d2learn/xlings)
+# mingw-w64 | [xlings](https://github.com/d2learn/xlings)
 
-> ...
+> Mingw-w64 is a collection of header files, import libraries, libraries and tools that, when combined with a compiler toolchain, such as GCC or LLVM, provides a complete development environment for building native Windows applications and libraries
 
 | [工具](https://github.com/d2learn/xlings) - [包索引仓库](https://github.com/d2learn/xim-pkgindex) - [包索引网站](https://d2learn.github.io/xim-pkgindex) - [论坛交流](https://forum.d2learn.org) - [d2learn开源](https://github.com/d2learn) |
 |---|
@@ -33,9 +33,10 @@ Invoke-Expression (Invoke-Webrequest 'https://d2learn.org/xlings-install.ps1.txt
 **安装命令**
 
 ```bash
-xlings install xpkgname
+xlings install mingw-w64
 ```
 
 **Refs**
 
-- xxx
+- https://www.mingw-w64.org
+- https://www.winlibs.com
